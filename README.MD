@@ -23,7 +23,7 @@ Create a developer profile/portfolio, share posts and get help from other develo
 ### Setup
 
 ```bash
-$ git clone https://github.com/user1990/devconnector-react-app.git
+$ git clone https://github.com/webdev730/webdev730_devsocial.git
 ```
 
 Go to project direction
